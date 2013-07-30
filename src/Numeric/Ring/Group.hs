@@ -1,4 +1,4 @@
-{-# LANGUAGE DeriveDataTypeable
+{-# LANGUAGE DeriveDataTypeable #-}
 module Numeric.Ring.Monoid
   ( Mon(..)
   ) where
